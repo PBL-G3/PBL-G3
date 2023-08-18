@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hey there, I'm Arnav !
+
+✨ Creating magic on the web through code and design. Java aficionado, React lover, and Figma explorer. Join me in the digital realm! 🖥️🚀
