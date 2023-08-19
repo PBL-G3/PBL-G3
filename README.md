@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 👋 Hey there, I'm Arnav !
 
 ✨ Creating magic on the web through code and design. Java aficionado, React lover, and Figma explorer. Join me in the digital realm! 🖥️🚀
+
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
